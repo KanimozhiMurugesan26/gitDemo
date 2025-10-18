@@ -13,7 +13,7 @@ public class Orders {
 	public void setOrders(List<OrderDetail> orders) {
 		this.orders = orders;
 
-		system.out.println("added for resolving conflict");
+		system.out.println("mergegit add  conflict");
 	}
 	
 	
